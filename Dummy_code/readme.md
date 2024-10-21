@@ -1,4 +1,4 @@
-# flutter_application_1
+# Dummy_Code (CET373) [HZ]
 
 A new Flutter project.
 
