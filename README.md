@@ -8,8 +8,10 @@ These are some mobile app examples using Flutter for CET373 - Mobile Technologie
 
 - <ins>Icons_and_Text_Tabs</ins>: 
 
-- <ins>Images_Control</ins>
+- <ins>Images_Control</ins>:
 
-- <ins>Navigation and Routing</ins>
+- <ins>Routing_Navigation</ins>:
 
 - <ins>n</ins>
+
+- 
