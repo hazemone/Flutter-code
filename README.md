@@ -8,7 +8,7 @@ These are some mobile app examples using Flutter for CET373 - Mobile Technologie
 
 - <ins>Icons_and_Text_Tabs+Image_Control</ins>: This application has tabs for text, icons, and images for the University of Sunderland. This application allows students to navigate within the same pages using tabs. This example can be demonstrated in the third lecture session.
 
-- <ins>Routing_Navigation_Gestures</ins>: Unlike the previous application, this one allows students to navigate to different elements thought opening new pages. Additionally, it included gestures such as pop-up windows and responding to them. This application can be demonstrated in the fourth lecture session.
+- <ins>Routing_Navigation_Gestures</ins>: Unlike the previous application, this one allows students to navigate to different elements [Drawer Navigation, Stack Navigation, Tabs, and Dialog] by opening new pages. Additionally, it included gestures such as pop-up windows and responding to them. This example can be demonstrated in the fourth lecture session.
 
 - <ins>ReadWrite [In development]</ins>:
 
