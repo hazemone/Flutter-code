@@ -10,8 +10,5 @@ These are some mobile app examples using Flutter for CET373 - Mobile Technologie
 
 - <ins>Routing_Navigation_Gestures</ins>: Unlike the previous application, this one allows students to navigate to different elements [Drawer Navigation, Stack Navigation, Tabs, and Dialog] by opening new pages. Additionally, it included gestures such as pop-up windows and responding to them. This example can be demonstrated in the fourth lecture session.
 
-- <ins>ReadWrite [In development]</ins>:
+- <ins>ReadWrite [In development]</ins>: This example somehow works on Linux, but does not work on Windows due to admin permission required, and it crashes on Edge. I could not get it right, but it is a feature that students must use in their assignments. It can be demonstrated in an extra session.
 
-- <ins>n</ins>
-
-- 
